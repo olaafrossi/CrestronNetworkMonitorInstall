@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://olaafrossi.github.io/CrestronNetworkMonitorInstall/CrestronNetworkMonitorInstaller.appinstaller"
-	Version="1.8.10.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="3.8.11.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="BBDEB1E1-A753-4249-9A0E-5E55FD14E678-"
-		Version="1.8.10.0"
-		Publisher="CN=olaaf"
-		Uri="https://olaafrossi.github.io/CrestronNetworkMonitorInstall/CrestronNetworkMonitorInstaller_1.8.10.0/CrestronNetworkMonitorInstaller_1.8.10.0_x64.msixbundle" />
+		Version="3.8.11.0"
+		Publisher="CN=&quot;Three Byte Intermedia, Inc.&quot;, O=&quot;Three Byte Intermedia, Inc.&quot;, L=New York, S=New York, C=US"
+		Uri="https://olaafrossi.github.io/CrestronNetworkMonitorInstall/CrestronNetworkMonitorInstaller_3.8.11.0_Test/CrestronNetworkMonitorInstaller_3.8.11.0_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
